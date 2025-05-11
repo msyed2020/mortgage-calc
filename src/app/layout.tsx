@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mortgage Calculator",
-  description: "Calculate your monthly mortgage payments",
+  title: "Financial Calculator",
+  description: "Calculate mortgage payments and fixed income returns",
 };
 
 export default function RootLayout({
